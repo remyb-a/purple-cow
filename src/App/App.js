@@ -1,4 +1,5 @@
 import './App.css';
+import Counter from '../Counter/Counter.js';
 
 function App() {
   return (
@@ -7,6 +8,8 @@ function App() {
         <p>
           Purple Cow Project
         </p>
+
+        <Counter />
       </header>
     </div>
   );
