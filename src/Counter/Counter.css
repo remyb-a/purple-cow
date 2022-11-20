@@ -1,4 +1,8 @@
-.Count-header {
-    font-size: 30px;
+.Count-display {
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: purple;
 
 }

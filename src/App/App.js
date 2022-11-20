@@ -8,9 +8,10 @@ function App() {
         <p>
           Purple Cow Project
         </p>
-
-        <Counter />
       </header>
+      <div>
+        <Counter />
+      </div>
     </div>
   );
 }
